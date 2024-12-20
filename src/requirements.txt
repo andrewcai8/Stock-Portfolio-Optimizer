@@ -6,7 +6,7 @@ statsmodels
 pandas_datareader
 datetime
 yfinance
-sklearn
+scikit-learn
 PyPortfolioOpt
 pandas_ta
 pypfopt
